@@ -1,7 +1,7 @@
 apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
-  name: go-app-dev-ingress
+  name: go-app-staging-ingress
 spec:
   ingressClassName: nginx
   rules:
