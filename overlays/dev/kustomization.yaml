@@ -6,4 +6,4 @@ resources:
 
 images:
   - name: anuroop21/go-app
-    newTag: 15dee6addc1ec973fdf5e66976d99ec7e86316c9
+    newTag: 7641f921f4a28256fad12ba3aa9ebaf18991be32
